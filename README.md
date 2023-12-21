@@ -1,0 +1,1 @@
+# Strace from scratch made in golang, to practice using syscalls (following a tutorial by liz rice)
